@@ -1,0 +1,1 @@
+# agnostic-svelte-crud
